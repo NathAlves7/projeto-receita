@@ -1,0 +1,58 @@
+body {
+    background-color: #ffde73;
+}
+
+.foto {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #94776679;
+    width: 500px;
+    padding: 25px;
+    margin: auto;
+    display: flex;
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.recipe {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #94776679;
+    width: 500px;
+    padding: 25px;
+    margin: auto;
+}
+
+.title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #35333f;
+}
+
+.descricao {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #35333f;
+}
+
+.lista-ingredientes {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.lista-ingredientes li {
+    margin-bottom: 10px;
+}
+
+.modo-preparo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.modo-preparo li {
+    padding: 10px;
+}
